@@ -1,3 +1,4 @@
+// Link para o circuito no tinkercard : https://www.tinkercad.com/things/8Im0YqlqjIb-exemplo-motor-dc-/editel?sharecode=XqbI3pTmkABP80U7kl9ps9fBdXByUY8D5o6MXlUGCnA
 int funcionar;
 
 void setup()
