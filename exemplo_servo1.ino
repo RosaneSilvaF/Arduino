@@ -1,4 +1,4 @@
-
+// Link para o circuito no tinkercad : https://www.tinkercad.com/things/lNwHROFyf61-exemplo-servo/editel?sharecode=-Oo3cLlxBmf3htv97vgeofVAF3vXAol8ty330pSjz9w
 #include <Servo.h>
 
 Servo meuServo;
